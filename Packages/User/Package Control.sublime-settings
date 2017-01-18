@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"3024 Color Scheme",
+		"3D Tool Syntax Hilight",
+		"All Autocomplete",
+		"Auto Refresh",
+		"auto-save",
+		"AutoUpdateSourceHeader",
+		"Bootstrap 3 Autocomplete",
+		"Bootstrap 3 Snippets",
+		"Boxy Theme",
+		"Git",
+		"HTML5",
+		"jQuery",
+		"jQueryDocs",
+		"Laravel 5 Artisan",
+		"Laravel 5 Snippets",
+		"Laravel Blade Highlighter",
+		"Licence Snippets",
+		"Package Control",
+		"Theme - Lanzhou",
+		"Theme - Spacegray",
+		"TypeShort"
+	]
+}

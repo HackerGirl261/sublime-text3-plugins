@@ -1,0 +1,22 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"auto_find_in_selection": true,
+	"bold_folder_labels": true,
+	"close_windows_when_empty": true,
+	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
+	"font_face": "Monospace",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"save_on_focus_lost": true,
+	"show_encoding": true,
+	"theme": "Boxy Tomorrow.sublime-theme",
+	"theme_dirty_materialized": true,
+	"theme_panel_switcher_atomized": true,
+	"theme_panel_switcher_materialized": true,
+	"theme_statusbar_label_bold": true,
+	"theme_tab_font_md": true,
+	"theme_tab_size_xl": true
+}
