@@ -1,0 +1,4 @@
+{
+	"registerTemplates" : [ "myTemplate" ],
+	"template" : "myTemplate",
+}
