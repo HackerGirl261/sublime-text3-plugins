@@ -15,7 +15,7 @@
 		"/home/kaiza/Documents/DEV/laravel"
 	],
 	"last_version": 3126,
-	"last_window_id": 23,
+	"last_window_id": 24,
 	"log_indexing": false,
 	"settings":
 	{
@@ -26,6 +26,38 @@
 			{
 				"selected_items":
 				[
+					[
+						"domain",
+						"domaines"
+					],
+					[
+						"tab",
+						"table\t(database.php)"
+					],
+					[
+						"appli",
+						"applink\t(database.php)"
+					],
+					[
+						"conn",
+						"connection\t(database.php)"
+					],
+					[
+						"A",
+						"Application"
+					],
+					[
+						"uns",
+						"unsignedInteger"
+					],
+					[
+						"str",
+						"string"
+					],
+					[
+						"tabe",
+						"table"
+					],
 					[
 						"bs",
 						"bs3-table\tbs3-table"
@@ -41,10 +73,6 @@
 					[
 						"Con",
 						"Contact"
-					],
-					[
-						"str",
-						"string"
 					],
 					[
 						"table",
@@ -86,10 +114,14 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 144.0,
-				"last_filter": "PHP: Generate",
+				"height": 357.0,
+				"last_filter": "install",
 				"selected_items":
 				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
 					[
 						"PHP: Generate",
 						"PHP: Generate Getters and Setters"
@@ -107,7 +139,7 @@
 						"Install Package Control"
 					]
 				],
-				"width": 914.0
+				"width": 494.0
 			},
 			"console":
 			{
@@ -127,12 +159,31 @@
 			},
 			"file_history":
 			[
+				"/home/kaiza/Documents/Travails/jouve/routes/web.php",
+				"/home/kaiza/Documents/Travails/jouve/app/Http/Controllers/TesteController.php",
+				"/home/kaiza/Documents/Travails/jouve/database/migrations/2017_01_24_115117_create_tache_dev_table.php",
+				"/home/kaiza/Documents/Travails/jouve/database/migrations/2017_01_24_080647_create_projets_table.php",
+				"/home/kaiza/Documents/Travails/jouve/database/migrations/2017_01_24_074035_creat_demandes_table.php",
+				"/home/kaiza/Documents/Travails/jouve/app/Application.php",
+				"/home/kaiza/Documents/Travails/jouve/database/migrations/2017_01_24_073942_create_demandeurs_table.php",
+				"/home/kaiza/Documents/Travails/jouve/database/migrations/2017_01_24_080659_create_evaluations_table.php",
+				"/home/kaiza/Documents/Travails/jouve/database/migrations/2017_01_24_074010_creat_sup_developpeurs_table.php",
+				"/home/kaiza/Documents/Travails/jouve/database/migrations/2017_01_24_074004_creat_developpeurs_table.php",
+				"/home/kaiza/Documents/Travails/jouve/database/migrations/2017_01_24_073954_create_sup_demandeurs_table.php",
+				"/tmp/mozilla_kaiza0/projets.sql",
+				"/home/kaiza/Documents/Travails/jouve/2eapp.sql",
+				"/home/kaiza/Documents/Travails/jouve/database/migrations/2017_01_24_112515_create_tache_dev_table.php",
+				"/home/kaiza/.bashrc",
+				"/tmp/fz3temp-1/2016_11_23_134621_create_applications_table.php",
+				"/home/kaiza/.config/sublime-text-3/Packages/User/php-getters-setters.sublime-settings",
+				"/home/kaiza/Documents/Travails/jouve/database/migrations/2017_01_24_074044_creat_evaluations_table.php",
+				"/home/kaiza/Documents/Travails/jouve/app/Gpao.php",
+				"/home/kaiza/Documents/Travails/jouve/database/migrations/2014_10_12_000000_create_users_table.php",
 				"/home/kaiza/Documents/Travails/jouve/database/migrations/2014_10_12_100000_create_password_resets_table.php",
 				"/home/kaiza/.config/sublime-text-3/Packages/PHP Getters and Setters/user_templates.py",
 				"/home/kaiza/.config/sublime-text-3/Packages/User/Git.sublime-settings",
 				"/home/kaiza/Documents/Travails/jouve/.env",
 				"/home/kaiza/.icons/default/index.theme",
-				"/home/kaiza/Documents/Travails/jouve/app/Gpao.php",
 				"/home/kaiza/Documents/Travails/jouve/resources/views/test.blade.php",
 				"/home/kaiza/Documents/Crystalcursors/README",
 				"/home/kaiza/Téléchargements/XDM/FP/readme.txt"
@@ -153,6 +204,8 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"unsignedInteger",
+					"demandeurs",
 					"();\n",
 					"public",
 					"protected",
@@ -165,6 +218,8 @@
 				"regex": false,
 				"replace_history":
 				[
+					"supdeveloppeurs",
+					"developpeurs",
 					"private"
 				],
 				"reverse": false,
@@ -179,7 +234,7 @@
 			},
 			"input":
 			{
-				"height": 39.0
+				"height": 42.0
 			},
 			"menu_visible": true,
 			"output.find_results":
@@ -189,7 +244,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 48.0
+				"height": 94.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -223,7 +278,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 364.0,
+			"side_bar_width": 252.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -238,6 +293,50 @@
 			{
 				"selected_items":
 				[
+					[
+						"re",
+						"ret"
+					],
+					[
+						"obje",
+						"object\t(database.php)"
+					],
+					[
+						"retu",
+						"returned\t(database.php)"
+					],
+					[
+						"dom",
+						"domaine"
+					],
+					[
+						"js",
+						"json_encode"
+					],
+					[
+						"set",
+						"setId\t(Domaine.php)"
+					],
+					[
+						"domain",
+						"domaines"
+					],
+					[
+						"tab",
+						"table\t(database.php)"
+					],
+					[
+						"appli",
+						"applink\t(database.php)"
+					],
+					[
+						"conn",
+						"connection\t(database.php)"
+					],
+					[
+						"A",
+						"Application"
+					],
 					[
 						"uns",
 						"unsignedInteger"
@@ -303,45 +402,38 @@
 			"buffers":
 			[
 				{
-					"file": "/home/kaiza/Documents/Travails/jouve/database/migrations/2017_01_24_080647_create_projets_table.php",
+					"file": "/home/kaiza/Documents/Travails/jouve/app/Domaine.php",
 					"settings":
 					{
-						"buffer_size": 1131,
+						"buffer_size": 1579,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/home/kaiza/Documents/Travails/jouve/database/migrations/2017_01_24_080659_create_evaluations_table.php",
+					"file": "/home/kaiza/Documents/Travails/jouve/app/Http/Controllers/TesteController.php",
 					"settings":
 					{
-						"buffer_size": 429,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/kaiza/Documents/Travails/jouve/database/migrations/2017_01_24_115117_create_tache_dev_table.php",
-					"settings":
-					{
-						"buffer_size": 944,
+						"buffer_size": 326,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/home/kaiza/Documents/Travails/jouve/database/migrations/2017_01_24_074035_creat_demandes_table.php",
+					"file": "/home/kaiza/Documents/Travails/jouve/.env",
 					"settings":
 					{
-						"buffer_size": 1959,
+						"buffer_size": 697,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/home/kaiza/Documents/Travails/jouve/database/migrations/2017_01_24_073954_create_sup_demandeurs_table.php",
+					"file": "/home/kaiza/Documents/Travails/jouve/config/database.php",
 					"settings":
 					{
-						"buffer_size": 664,
+						"buffer_size": 4507,
+						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
 				}
@@ -400,27 +492,35 @@
 			[
 				"/home/kaiza/Documents/Travails/jouve",
 				"/home/kaiza/Documents/Travails/jouve/app",
-				"/home/kaiza/Documents/Travails/jouve/database",
+				"/home/kaiza/Documents/Travails/jouve/app/Http",
+				"/home/kaiza/Documents/Travails/jouve/app/Http/Controllers",
+				"/home/kaiza/Documents/Travails/jouve/config",
 				"/home/kaiza/Documents/Travails/jouve/database/migrations",
 				"/home/kaiza/Documents/Travails/jouve/resources",
-				"/home/kaiza/Documents/Travails/jouve/resources/views"
+				"/home/kaiza/Documents/Travails/jouve/resources/views",
+				"/home/kaiza/Documents/Travails/jouve/routes"
 			],
 			"file_history":
 			[
-				"/home/kaiza/Documents/Travails/jouve/2eapp.sql",
-				"/home/kaiza/Documents/Travails/jouve/database/migrations/2017_01_24_112515_create_tache_dev_table.php",
-				"/home/kaiza/Documents/Travails/jouve/database/migrations/2017_01_24_074004_creat_developpeurs_table.php",
+				"/home/kaiza/Documents/Travails/jouve/routes/web.php",
+				"/home/kaiza/Documents/Travails/jouve/app/Http/Controllers/TesteController.php",
+				"/home/kaiza/Documents/Travails/jouve/database/migrations/2017_01_24_115117_create_tache_dev_table.php",
 				"/home/kaiza/Documents/Travails/jouve/database/migrations/2017_01_24_080647_create_projets_table.php",
 				"/home/kaiza/Documents/Travails/jouve/database/migrations/2017_01_24_074035_creat_demandes_table.php",
+				"/home/kaiza/Documents/Travails/jouve/app/Application.php",
+				"/home/kaiza/Documents/Travails/jouve/database/migrations/2017_01_24_073942_create_demandeurs_table.php",
+				"/home/kaiza/Documents/Travails/jouve/database/migrations/2017_01_24_080659_create_evaluations_table.php",
+				"/home/kaiza/Documents/Travails/jouve/database/migrations/2017_01_24_074010_creat_sup_developpeurs_table.php",
+				"/home/kaiza/Documents/Travails/jouve/database/migrations/2017_01_24_074004_creat_developpeurs_table.php",
+				"/home/kaiza/Documents/Travails/jouve/database/migrations/2017_01_24_073954_create_sup_demandeurs_table.php",
+				"/tmp/mozilla_kaiza0/projets.sql",
+				"/home/kaiza/Documents/Travails/jouve/2eapp.sql",
+				"/home/kaiza/Documents/Travails/jouve/database/migrations/2017_01_24_112515_create_tache_dev_table.php",
 				"/home/kaiza/.bashrc",
 				"/tmp/fz3temp-1/2016_11_23_134621_create_applications_table.php",
-				"/home/kaiza/Documents/Travails/jouve/database/migrations/2017_01_24_074010_creat_sup_developpeurs_table.php",
-				"/home/kaiza/Documents/Travails/jouve/database/migrations/2017_01_24_073954_create_sup_demandeurs_table.php",
-				"/home/kaiza/Documents/Travails/jouve/database/migrations/2017_01_24_073942_create_demandeurs_table.php",
 				"/home/kaiza/.config/sublime-text-3/Packages/User/php-getters-setters.sublime-settings",
 				"/home/kaiza/Documents/Travails/jouve/database/migrations/2017_01_24_074044_creat_evaluations_table.php",
 				"/home/kaiza/Documents/Travails/jouve/app/Gpao.php",
-				"/home/kaiza/Documents/Travails/jouve/app/Application.php",
 				"/home/kaiza/Documents/Travails/jouve/database/migrations/2014_10_12_000000_create_users_table.php",
 				"/home/kaiza/Documents/Travails/jouve/database/migrations/2014_10_12_100000_create_password_resets_table.php",
 				"/home/kaiza/.config/sublime-text-3/Packages/PHP Getters and Setters/user_templates.py",
@@ -447,6 +547,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"unsignedInteger",
 					"demandeurs",
 					"();\n",
 					"public",
@@ -479,34 +580,32 @@
 			"groups":
 			[
 				{
-					"selected": 3,
+					"selected": 1,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/home/kaiza/Documents/Travails/jouve/database/migrations/2017_01_24_080647_create_projets_table.php",
+							"file": "/home/kaiza/Documents/Travails/jouve/app/Domaine.php",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1131,
+								"buffer_size": 1579,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										920,
-										920
+										1426,
+										1426
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/PHP/PHP.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
+									"syntax": "Packages/PHP/PHP.sublime-syntax"
 								},
 								"translation.x": 0.0,
-								"translation.y": 228.0,
+								"translation.y": 1083.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 1,
@@ -514,101 +613,11 @@
 						},
 						{
 							"buffer": 1,
-							"file": "/home/kaiza/Documents/Travails/jouve/database/migrations/2017_01_24_080659_create_evaluations_table.php",
-							"semi_transient": true,
-							"settings":
-							{
-								"buffer_size": 429,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/PHP/PHP.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/home/kaiza/Documents/Travails/jouve/database/migrations/2017_01_24_115117_create_tache_dev_table.php",
+							"file": "/home/kaiza/Documents/Travails/jouve/app/Http/Controllers/TesteController.php",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 944,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										776,
-										776
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/PHP/PHP.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 61.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/home/kaiza/Documents/Travails/jouve/database/migrations/2017_01_24_074035_creat_demandes_table.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1959,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1789,
-										1789
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/PHP/PHP.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 479.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/home/kaiza/Documents/Travails/jouve/database/migrations/2017_01_24_073954_create_sup_demandeurs_table.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 664,
+								"buffer_size": 326,
 								"regions":
 								{
 								},
@@ -621,15 +630,71 @@
 								],
 								"settings":
 								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 61.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/kaiza/Documents/Travails/jouve/.env",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 697,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										374,
+										374
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 19.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/kaiza/Documents/Travails/jouve/config/database.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4507,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2475,
+										2475
+									]
+								],
+								"settings":
+								{
 									"syntax": "Packages/PHP/PHP.sublime-syntax",
 									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 988.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 4,
+							"stack_index": 3,
 							"type": "text"
 						}
 					]
@@ -641,7 +706,7 @@
 			},
 			"input":
 			{
-				"height": 39.0
+				"height": 42.0
 			},
 			"layout":
 			{
@@ -671,7 +736,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,1,0,1,0,0,0,0,0,1366,768",
+			"position": "0,1,0,0,0,0,0,0,0,1366,768",
 			"project": "",
 			"replace":
 			{
@@ -713,7 +778,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 397.0,
+			"side_bar_width": 252.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
